@@ -54,20 +54,16 @@ Sou um **Analista de TI** e estudante de **Análise e Desenvolvimento de Sistema
 
 ## 🚀 Projetos em Destaque
 
-*(Abaixo estão os cards dinâmicos do GitHub. Altere o nome do repositório no link para exibir seus projetos reais)*
-
 <div align="center">
-  <a href="https://github.com/leciof300/NOME-DO-SEU-REPOSITORIO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leciof300&repo=NOME-DO-SEU-REPOSITORIO-1&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41&hide_border=false" width="48%" />
+  <a href="https://github.com/leciof300/mamba-fast-tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leciof300&repo=mamba-fast-tracker&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41&hide_border=false" width="48%" />
   </a>
-  <a href="https://github.com/leciof300/NOME-DO-SEU-REPOSITORIO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leciof300&repo=NOME-DO-SEU-REPOSITORIO-2&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41&hide_border=false" width="48%" />
+  <a href="https://github.com/leciof300/Theos_academy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leciof300&repo=Theos_academy&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41&hide_border=false" width="48%" />
   </a>
   <br/>
-  <a href="https://github.com/leciof300/NOME-DO-SEU-REPOSITORIO-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leciof300&repo=NOME-DO-SEU-REPOSITORIO-3&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41&hide_border=false" width="48%" />
-  </a>
-  <a href="https://leciofwebdesigner-indol.vercel.app/">
+  <a href="https://leciofwebdesigner-indol.vercel.app/" target="_blank">
+    <!-- Usando o próprio repositório leciof300 para o card do portfólio -->
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=leciof300&repo=leciof300&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41&hide_border=false" width="48%" />
   </a>
 </div>
