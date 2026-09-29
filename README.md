@@ -54,33 +54,72 @@ Sou um **Analista de TI** e estudante de **Análise e Desenvolvimento de Sistema
 ## 🚀 Projetos em Destaque
 
 <div align="center">
+  <br>
 
-[![Mamba Fast Tracker](https://github-readme-stats.vercel.app/api/pin/?username=leciof300&repo=mamba-fast-tracker&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41)](https://github.com/leciof300/mamba-fast-tracker)
-[![Theos Academy](https://github-readme-stats.vercel.app/api/pin/?username=leciof300&repo=Theos_academy&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41)](https://github.com/leciof300/Theos_academy)
-<br>
-[![Portfólio Lécio](https://github-readme-stats.vercel.app/api/pin/?username=leciof300&repo=leciof300&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41)](https://leciofwebdesigner-indol.vercel.app/)
+  ### [ 🐍 Mamba Fast Tracker ](https://github.com/leciof300/mamba-fast-tracker)
+  Sistema focado em rastreamento rápido, desempenho e lógica ágil.
+  <br>
+  <a href="https://github.com/leciof300/mamba-fast-tracker" target="_blank">
+    <img src="https://img.shields.io/badge/-Acessar_Repositório-000000?style=for-the-badge&logo=github&logoColor=00FF41&borderColor=00FF41" alt="Repositório Mamba Fast Tracker" />
+  </a>
 
+  <br><br><br>
+
+  ### [ 🎓 Theos Academy ](https://github.com/leciof300/Theos_academy)
+  Plataforma educacional com arquitetura sólida, focada na melhor experiência de ensino.
+  <br>
+  <a href="https://github.com/leciof300/Theos_academy" target="_blank">
+    <img src="https://img.shields.io/badge/-Acessar_Repositório-000000?style=for-the-badge&logo=github&logoColor=00FF41&borderColor=00FF41" alt="Repositório Theos Academy" />
+  </a>
+
+  <br><br><br>
+
+  ### [ 🌐 Portfólio Oficial ](https://leciofwebdesigner-indol.vercel.app/)
+  Meu espaço web para demonstrar projetos, habilidades de desenvolvimento e design.
+  <br>
+  <a href="https://leciofwebdesigner-indol.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Acessar_Site_Ao_Vivo-000000?style=for-the-badge&logo=vercel&logoColor=white&borderColor=00FF41" alt="Site Portfólio Lécio" />
+  </a>
+  
+  <br>
 </div>
 
----
-
-## 🏆 GitHub Trophies
+## 📊 Estatísticas e Conquistas
 
 <div align="center">
+  <br>
+  
+  <!-- Badges Nativos e Confiáveis (Nunca quebram) -->
+  <a href="https://github.com/leciof300?tab=repositories">
+    <img src="https://img.shields.io/github/repos/leciof300?style=for-the-badge&logo=github&label=Repositórios&color=00FF41&labelColor=000000&borderColor=00FF41" alt="Repositórios" />
+  </a>
+  <a href="https://github.com/leciof300?tab=followers">
+    <img src="https://img.shields.io/github/followers/leciof300?style=for-the-badge&logo=github&label=Seguidores&color=00FF41&labelColor=000000&borderColor=00FF41" alt="Seguidores" />
+  </a>
+  <a href="https://github.com/leciof300">
+    <img src="https://img.shields.io/github/stars/leciof300?style=for-the-badge&logo=github&label=Estrelas%20Recebidas&color=00FF41&labelColor=000000&borderColor=00FF41" alt="Estrelas" />
+  </a>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=leciof300&theme=dracula&no-bg=true&no-frame=true&margin-w=15&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+  <br><br>
 
-</div>
+  ### Principais Linguagens
+  <!-- Representação limpa do seu foco Full Stack -->
+  <a href="https://github.com/leciof300">
+    <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41&borderColor=00FF41" alt="JavaScript" />
+  </a>
+  <a href="https://github.com/leciof300">
+    <img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF41&borderColor=00FF41" alt="TypeScript" />
+  </a>
+  <a href="https://github.com/leciof300">
+    <img src="https://img.shields.io/badge/-C%23_.NET-000000?style=for-the-badge&logo=csharp&logoColor=00FF41&borderColor=00FF41" alt="C#" />
+  </a>
+  <a href="https://github.com/leciof300">
+    <img src="https://img.shields.io/badge/-React_&_Node.js-000000?style=for-the-badge&logo=react&logoColor=00FF41&borderColor=00FF41" alt="React & Node" />
+  </a>
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-[![Estatísticas](https://github-readme-stats.vercel.app/api?username=leciof300&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41)](https://github.com/leciof300)
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=leciof300&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41)](https://github.com/leciof300)
-
+  <br><br>
+  > *"Foco na excelência do código, arquitetura escalável e entrega de resultados."*
+  <br>
 </div>
 
 <br>
@@ -91,28 +130,27 @@ Sou um **Analista de TI** e estudante de **Análise e Desenvolvimento de Sistema
 
 ---
 
-## 📈 Atividade Recente
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leciof300&theme=react-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&hide_border=false&border_color=00FF41)](https://github.com/leciof300)
-
-</div>
-
 ---
 
-## 🐍 Contribuições (Snake)
+## 🐍 Minha Jornada de Commits
+
+> *A animação reflete minhas contribuições e commits reais, gerada automaticamente.*
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leciof300/leciof300/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leciof300/leciof300/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/leciof300/leciof300/output/github-contribution-grid-snake.svg">
-  </picture>
+  <br>
+  <a href="https://github.com/leciof300">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leciof300/leciof300/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leciof300/leciof300/output/github-contribution-grid-snake.svg">
+      <img alt="Animação de Contribuições do GitHub" src="https://raw.githubusercontent.com/leciof300/leciof300/output/github-contribution-grid-snake.svg">
+    </picture>
+  </a>
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=002200&height=80&section=footer&text=Feito%20com%20%E2%99%A5%20por%20L%C3%A9cio%20Ferreira&fontSize=16&fontColor=00FF41" width="100%" alt="Rodapé" />
+  <a href="https://www.linkedin.com/in/lécio-ferreira-9aaa59280/" target="_blank">
+    <img src="https://img.shields.io/badge/Feito%20com%20%E2%99%A5%20por-L%C3%A9cio%20Ferreira-000000?style=for-the-badge&borderColor=00FF41" alt="Rodapé Desenvolvido por Lécio" />
+  </a>
 </div>
