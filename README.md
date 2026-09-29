@@ -4,7 +4,7 @@
 
   <!-- Typing Animation -->
   <a href="https://github.com/leciof300">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Transformando+café+em+código...;Especialista+em+soluções+Full+Stack;Construindo+arquiteturas+escaláveis;Analista+de+TI+&+Desenvolvedor" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Transformando+cafe+em+codigo...;Especialista+em+solucoes+Full+Stack;Construindo+arquiteturas+escalaveis;Analista+de+TI+e+Desenvolvedor" alt="Typing Animation" />
   </a>
 
   <br>
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41&borderColor=00FF41" alt="Instagram" />
   </a>
   <a href="mailto:leciof300@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&borderColor=00FF41" alt="Email" />
+    <img src="https://img.shields.io/badge/E_mail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&borderColor=00FF41" alt="Email" />
   </a>
 </div>
 
@@ -43,7 +43,7 @@ Sou um **Analista de TI** e estudante de **Análise e Desenvolvimento de Sistema
 
 <div align="center">
   <br>
-  <!-- Ícones das tecnologias principais solicitadas usando skillicons -->
+  <!-- Ícones das tecnologias -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,postgres,mysql,cs,dotnet,java,git,github,python,c,angular&theme=dark" alt="Tecnologias que utilizo" />
   </a>
@@ -56,15 +56,14 @@ Sou um **Analista de TI** e estudante de **Análise e Desenvolvimento de Sistema
 
 <div align="center">
   <a href="https://github.com/leciof300/mamba-fast-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leciof300&repo=mamba-fast-tracker&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41&hide_border=false" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leciof300&repo=mamba-fast-tracker&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41&hide_border=false" width="48%" alt="Mamba Fast Tracker" />
   </a>
   <a href="https://github.com/leciof300/Theos_academy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leciof300&repo=Theos_academy&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41&hide_border=false" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leciof300&repo=Theos_academy&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41&hide_border=false" width="48%" alt="Theos Academy" />
   </a>
   <br/>
   <a href="https://leciofwebdesigner-indol.vercel.app/" target="_blank">
-    <!-- Usando o próprio repositório leciof300 para o card do portfólio -->
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leciof300&repo=leciof300&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41&hide_border=false" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leciof300&repo=leciof300&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41&hide_border=false" width="48%" alt="Portfólio Lécio" />
   </a>
 </div>
 
