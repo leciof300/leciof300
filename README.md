@@ -43,7 +43,6 @@ Sou um **Analista de TI** e estudante de **Análise e Desenvolvimento de Sistema
 
 <div align="center">
   <br>
-  <!-- Ícones das tecnologias -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,postgres,mysql,cs,dotnet,java,git,github,python,c,angular&theme=dark" alt="Tecnologias que utilizo" />
   </a>
@@ -55,16 +54,12 @@ Sou um **Analista de TI** e estudante de **Análise e Desenvolvimento de Sistema
 ## 🚀 Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/leciof300/mamba-fast-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leciof300&repo=mamba-fast-tracker&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41&hide_border=false" width="48%" alt="Mamba Fast Tracker" />
-  </a>
-  <a href="https://github.com/leciof300/Theos_academy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leciof300&repo=Theos_academy&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41&hide_border=false" width="48%" alt="Theos Academy" />
-  </a>
-  <br/>
-  <a href="https://leciofwebdesigner-indol.vercel.app/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leciof300&repo=leciof300&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41&hide_border=false" width="48%" alt="Portfólio Lécio" />
-  </a>
+
+[![Mamba Fast Tracker](https://github-readme-stats.vercel.app/api/pin/?username=leciof300&repo=mamba-fast-tracker&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41)](https://github.com/leciof300/mamba-fast-tracker)
+[![Theos Academy](https://github-readme-stats.vercel.app/api/pin/?username=leciof300&repo=Theos_academy&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41)](https://github.com/leciof300/Theos_academy)
+<br>
+[![Portfólio Lécio](https://github-readme-stats.vercel.app/api/pin/?username=leciof300&repo=leciof300&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41)](https://leciofwebdesigner-indol.vercel.app/)
+
 </div>
 
 ---
@@ -72,9 +67,9 @@ Sou um **Analista de TI** e estudante de **Análise e Desenvolvimento de Sistema
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=leciof300&theme=dracula&no-bg=true&no-frame=true&title=Reviews,Issues,PullRequest,Commits,Repositories,Followers&margin-w=15&column=6" alt="Trophies" />
-  </a>
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=leciof300&theme=dracula&no-bg=true&no-frame=true&margin-w=15&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
@@ -82,8 +77,10 @@ Sou um **Analista de TI** e estudante de **Análise e Desenvolvimento de Sistema
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leciof300&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41&hide_border=false" height="195" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leciof300&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41&hide_border=false" height="195" alt="Linguagens Mais Utilizadas" />
+
+[![Estatísticas](https://github-readme-stats.vercel.app/api?username=leciof300&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41)](https://github.com/leciof300)
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=leciof300&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41)](https://github.com/leciof300)
+
 </div>
 
 <br>
@@ -97,7 +94,9 @@ Sou um **Analista de TI** e estudante de **Análise e Desenvolvimento de Sistema
 ## 📈 Atividade Recente
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leciof300&theme=react-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&hide_border=false&border_color=00FF41" width="100%" alt="Activity Graph" />
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leciof300&theme=react-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&hide_border=false&border_color=00FF41)](https://github.com/leciof300)
+
 </div>
 
 ---
